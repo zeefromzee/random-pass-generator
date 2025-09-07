@@ -1,8 +1,3 @@
-# random-pass-generator
-Here’s a professional **README.md** you can use for your project:
-
----
-
 # Random Password Generator
 
 A Python-based password generator that creates secure passwords with customizable **strength** and **memorability** options.
